@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Rachna 👋</h1>
 
 <h3 align="center">Data Analyst · SQL · Python · Power BI · Excel</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/itsrachna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rachnasinhaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -14,8 +14,8 @@
 Data Analyst with **1.8+ years of experience** turning large, messy datasets into decisions that move the needle. I've worked across insurance, operations, and financial analytics — building dashboards, automating workflows, and writing SQL and Python that actually gets used.
 
 - 🔍 Strong in: **SQL, Python (Pandas, NumPy), Excel, Power BI**
-- 🎓 B.Tech, Delhi Technological University · CGPA 8.29
-- 📍 Delhi, India · Open to opportunities
+- 🎓 B.Tech, Delhi Technological University
+- 📍 Delhi, India 
 
 ---
 
@@ -40,43 +40,12 @@ Data Analyst with **1.8+ years of experience** turning large, messy datasets int
 
 Analyzed 20,000+ sales records to surface what drives revenue and when customers order.
 
-- Identified top 5 products, peak order windows, and a **22% repeat order rate**
-- Insights used to optimize inventory planning and marketing targeting
-
 ---
 
 ### 🌍 [International Debt Statistics Analysis](https://github.com/yourusername/international-debt-analysis)
 `SQL` `World Bank Data`
 
 Queried 45+ years (1970–2015) of World Bank debt data across 100+ developing countries.
-
-- Extracted and manipulated large-scale financial datasets using advanced SQL
-- Identified long-term debt trends and regional patterns
-
----
-
-## 💼 Experience
-
-**Software Engineer — Data & Analytics** · Persistent Systems, Noida *(Jun 2021 – Mar 2023)*
-
-- Investigated **10M+ record datasets** to identify trends and automate workflows → improved client onboarding efficiency by **40%**
-- Built **15+ Power BI dashboards** for real-time insurance claim performance tracking
-- Automated claim lifecycle processes → reduced manual effort by **70%**, processing time by **30%**
-- Used Python for data transformation and analysis → improved data accuracy by **25%**
-
-**Operations Analyst** · Projexel Technologies, Delhi *(May – Jun 2020)*
-
-- Analyzed **10,000+ sales records** via SQL to monitor supply-side performance
-- Identified 3+ process bottlenecks → improved workflow efficiency by **25%**
-
----
-
-## 📜 Certifications
-
-- **Associate Data Analyst in SQL** · DataCamp (2026)
-- **Power BI: Dashboard Creation** · OfficeMaster
-- **Introduction to SQL & Joining Data in SQL** · DataCamp
-- **Programming for Everybody (Python)** · Coursera
 
 ---
 
