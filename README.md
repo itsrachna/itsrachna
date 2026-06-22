@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Rachna 👋</h1>
 
 <h3 align="center">Data Analyst · Turning Raw Data into Real Decisions</h3>
 
@@ -17,9 +17,7 @@ I'm a **Data Analyst with 1.8+ years of experience** in analytics, visualization
 Previously at **Persistent Systems**, I built 15+ client-ready dashboards, automated claim workflows reducing manual effort by **70%**, and investigated **10M+ record datasets** to improve operational efficiency. I'm passionate about making data speak clearly to both technical and non-technical audiences.
 
 - 🔭 Currently focused on: **SQL, Python analytics & Power BI dashboards**
-- 🎓 B.Tech, Engineering Physics | **Delhi Technological University** | CGPA: 8.29 · Departmental Topper (9.8/10 Final Sem)
-- 📄 Published researcher in a **Scopus-indexed journal** (John Wiley & Sons)
-- 💡 Co-founder of **RAKT** — a blood donation platform connecting 5,000+ donors
+- 🎓 B.Tech, Engineering Physics | **Delhi Technological University** 
 - 📍 Based in Delhi, India
 
 ---
@@ -54,9 +52,6 @@ Previously at **Persistent Systems**, I built 15+ client-ready dashboards, autom
 > **SQL · Data Analysis · Business Insights**
 
 Analyzed **20,000+ pizza sales records** to uncover revenue drivers and customer behavior patterns.
-- Identified top 5 products, peak order times, and size preferences
-- Discovered **22% repeat order rate** — used to optimize inventory & marketing strategy
-- Delivered actionable insights on revenue contribution across product categories
 
 ---
 
@@ -64,48 +59,6 @@ Analyzed **20,000+ pizza sales records** to uncover revenue drivers and customer
 > **SQL · World Bank Data · Trend Analysis**
 
 Examined **45+ years (1970–2015)** of World Bank debt data across 100+ developing countries.
-- Wrote complex SQL queries to extract, clean, and manipulate large-scale financial datasets
-- Identified long-term debt trends and regional patterns across national economies
-
----
-
-## 💼 Work Experience
-
-**Software Engineer — Data & Analytics** · Persistent Systems, Noida *(Jun 2021 – Mar 2023)*
-- Built interactive UI for insurance claim processing, extracting **27+ data points per claim**
-- Investigated **10M+ record datasets** to automate workflows → improved client onboarding by **40%**
-- Built **15+ Power BI dashboards** for real-time claim performance tracking
-- Reduced manual effort by **70%** and claim processing time by **30%** through automation
-- Improved data accuracy by **25%** using Python for transformation and analysis
-
-**Operations Analyst** · Projexel Technologies, Delhi *(May 2020 – Jun 2020)*
-- Analyzed **10,000+ sales records** using SQL to monitor supply-side performance
-- Identified 3+ major process bottlenecks, improving workflow efficiency by **25%**
-
-**Data Intern** · USIP DTU, Delhi *(Jan 2020 – Mar 2020)*
-- Analyzed **2,000+ student records** using Advanced Excel → improved reporting accuracy by **25%**
-- Delivered **10+ performance reports** enhancing sports program planning efficiency by **30%**
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| Associate Data Analyst in SQL | DataCamp | 2026 |
-| Power BI Workshop: Dashboard Creation | OfficeMaster | — |
-| Introduction to SQL & Joining Data in SQL | DataCamp | — |
-| Programming for Everybody (Python) | Coursera | — |
-| Introduction to Databases | Coursera | — |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Departmental Topper** — Final Semester, B.Tech DTU (CGPA 9.8/10.0)
-- 🔬 **Commendable Research Award** by DTU for excellence in research (2021)
-- 📰 **Published Research Paper** in Scopus-indexed journal · John Wiley & Sons
-- 🩸 **Co-founded RAKT** — managed 5,000+ donor database, facilitated 2,000+ blood donations with AIIMS Delhi
 
 ---
 
@@ -122,7 +75,7 @@ Examined **45+ years (1970–2015)** of World Bank debt data across 100+ develop
 
 I'm open to **Data Analyst roles, freelance analytics projects, and collaboration** on interesting data problems.
 
-📧 **youremail@gmail.com** · 💼 **[LinkedIn](https://linkedin.com/in/yourprofile)**
+📧 **rachnasinhaa@gmail.com** · 💼 **[LinkedIn](https://linkedin.com/in/itsrachna)**
 
 ---
 
