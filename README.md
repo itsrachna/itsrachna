@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Data Analyst with 1.8+ years of experience** in analytics, visualization, and automation — transforming complex, large-scale datasets into actionable business insights.
+I'm a **Data Analyst with 2 years of experience** in analytics, visualization, and automation — transforming complex, large-scale datasets into actionable business insights.
 
 Previously at **Persistent Systems**, I built 15+ client-ready dashboards, automated claim workflows reducing manual effort by **70%**, and investigated **10M+ record datasets** to improve operational efficiency. I'm passionate about making data speak clearly to both technical and non-technical audiences.
 
@@ -69,14 +69,5 @@ Examined **45+ years (1970–2015)** of World Bank debt data across 100+ develop
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
----
-
-## 🤝 Let's Connect
-
-I'm open to **Data Analyst roles, freelance analytics projects, and collaboration** on interesting data problems.
-
-📧 **rachnasinhaa@gmail.com** · 💼 **[LinkedIn](https://linkedin.com/in/itsrachna)**
-
----
 
 <p align="center"><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
