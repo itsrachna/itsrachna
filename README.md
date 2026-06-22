@@ -55,7 +55,3 @@ Queried 45+ years (1970–2015) of World Bank debt data across 100+ developing c
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
-
----
-
-<p align="center">Open to <strong>Data Analyst roles</strong> · <a href="mailto:youremail@gmail.com">youremail@gmail.com</a> · <a href="https://linkedin.com/in/yourprofile">LinkedIn</a></p>
